@@ -1,8 +1,8 @@
 ##What this program does:
 #1. Logs into Scopus through Western account
-#2. Performs an 'advanced query search' for a particular year between 1861-2020
+#2. Performs an 'advanced query search' for a particular year 
 #3. Records the number of conference papers and articles that were published in that year
-#4. 
+#4. Repeat process for all years between 1861-2020
 
 
 import os
